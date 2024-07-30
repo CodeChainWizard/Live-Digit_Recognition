@@ -1,0 +1,4 @@
+numpy==1.23.5
+tflite_runtime==2.14.0
+flask
+gunicorn
